@@ -1,5 +1,6 @@
 package day01.cicloWhile;
 
+// Esercizio che conta il numero di iterazioni
 public class Exercise01 {
 
         public static void main(String[] args) {

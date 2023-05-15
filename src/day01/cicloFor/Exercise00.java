@@ -1,6 +1,6 @@
 package day01.cicloFor;
 
-// Somma i numeri pari da 1 a 100
+// Somma i numeri da 1 a 100
 public class Exercise00 {
     public static void main(String[] args) {
         int sum = 0; // variabile per la somma dei numeri

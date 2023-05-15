@@ -1,6 +1,5 @@
 package day01.cicloFor;
 
-
 public class Exercise04 {
     public static void main(String[] args) {
         String password = "mypassword"; // la password da criptare
