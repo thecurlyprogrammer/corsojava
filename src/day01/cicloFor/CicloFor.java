@@ -1,6 +1,7 @@
-package day01;
+package day01.cicloFor;
 
 public class CicloFor {
+    // Esempio for
     public static void main(String[] args) {
         String[] lista = {"pippo", "pluto", "paperino"};
 
