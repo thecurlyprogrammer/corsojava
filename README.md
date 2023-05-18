@@ -4,8 +4,6 @@ Come usare questa repository:
 Gli esercizi svolti a lezione potete trovarli all'interno della cartella src ed eventualmente scaricarli.
 Potete anche clonare la repository cosi da aprire il progetto direttamente su intellij.
 
-Guida su come clonare una repo.
-
 ## Day 1
 - Ciclo FOR
 - Ciclo FOREACH
